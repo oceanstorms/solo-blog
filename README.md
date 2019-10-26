@@ -10,6 +10,8 @@ oceanstorms 的个人博客
 
 ### 最新
 
+* [JVM-02-JVM学习路线](https://www.huhdcc.top/articles/2019/10/25/1572013970364.html)
+* [JVM-01-什么是JVM？](https://www.huhdcc.top/articles/2019/10/25/1572013312494.html)
 * [java基础算法与常见数据结构（03）-数组基本排序算法](https://www.huhdcc.top/articles/2019/09/12/1568285025292.html)
 * [java基础算法与常见数据结构（02）-数组](https://www.huhdcc.top/articles/2019/09/12/1568283308014.html)
 * [java基础算法与常见数据结构（01）-介绍](https://www.huhdcc.top/articles/2019/09/12/1568282563142.html)
@@ -28,8 +30,6 @@ oceanstorms 的个人博客
 * [支付demo篇（06）-支付对接 -微信支付二维码支付](https://www.huhdcc.top/articles/2019/09/06/1567748355174.html)
 * [支付demo篇（05）-支付对接 -微信支付基础](https://www.huhdcc.top/articles/2019/09/06/1567732430696.html)
 * [支付demo篇（04）-支付对接 -支付宝APP支付](https://www.huhdcc.top/articles/2019/09/06/1567731789740.html)
-* [支付demo篇（03）-支付对接 -支付宝扫码支付](https://www.huhdcc.top/articles/2019/09/05/1567683276503.html)
-* [支付demo篇（02）-搭建支付服务基础](https://www.huhdcc.top/articles/2019/09/05/1567677421286.html)
 
 ### 热门
 
@@ -38,9 +38,11 @@ oceanstorms 的个人博客
 * [使用OkHttp替换Apache的Httpclient](https://www.huhdcc.top/articles/2019/09/03/1567488950089.html)
 * [微信支付-退款操作（JAVA版）](https://www.huhdcc.top/articles/2019/09/01/1567332589167.html)
 * [centos7 阿里云服务器docker安装nexus3](https://www.huhdcc.top/articles/2019/09/01/1567333217431.html)
+* [支付demo篇（02）-搭建支付服务基础](https://www.huhdcc.top/articles/2019/09/05/1567677421286.html)
 * [centos7 阿里云服务器安装mysql 配置远程访问](https://www.huhdcc.top/articles/2019/09/01/1567333062045.html)
 * [定时任务CRON常用表达式收集](https://www.huhdcc.top/articles/2019/09/01/1567333245085.html)
 * [我在 GitHub 上的开源项目](https://www.huhdcc.top/my-github-repos)
+* [支付demo篇（03）-支付对接 -支付宝扫码支付](https://www.huhdcc.top/articles/2019/09/05/1567683276503.html)
 * [Mybatis分析（1）-SqlSessionFactory](https://www.huhdcc.top/articles/2019/09/01/1567331946937.html)
 * [Mybatis分析（9）-加载工厂对象objectFactoryElement](https://www.huhdcc.top/articles/2019/09/01/1567332498061.html)
 * [JAVA8新特性lambda表达式（优雅的去重）](https://www.huhdcc.top/articles/2019/09/01/1567332839844.html)
@@ -51,15 +53,15 @@ oceanstorms 的个人博客
 * [Mybatis分析（13）-加载数据厂商标识databaseIdProviderElement](https://www.huhdcc.top/articles/2019/09/04/1567582517817.html)
 * [Mybatis分析（2）-SqlSessionFactoryBuilder](https://www.huhdcc.top/articles/2019/09/01/1567332033694.html)
 * [Mybatis分析（3）-config文件解析XMLConfigBuilder.parseConfiguration](https://www.huhdcc.top/articles/2019/09/01/1567332162637.html)
-* [Mybatis分析（4）-属性解析propertiesElement](https://www.huhdcc.top/articles/2019/09/01/1567332355505.html)
-* [阿里大于发送短信验证码demo](https://www.huhdcc.top/articles/2019/09/01/1567332547114.html)
 
 ### 热议
 
+* [Mybatis分析（4）-属性解析propertiesElement](https://www.huhdcc.top/articles/2019/09/01/1567332355505.html)
 * [Mybatis分析（5）-属性解析settings](https://www.huhdcc.top/articles/2019/09/01/1567332399709.html)
 * [Mybatis分析（6）-VFS加载](https://www.huhdcc.top/articles/2019/09/01/1567332432225.html)
 * [Mybatis分析（7）-类型别名解析typeAliasesElement](https://www.huhdcc.top/articles/2019/09/01/1567332454979.html)
 * [Mybatis分析（8）-插件加载pluginElement](https://www.huhdcc.top/articles/2019/09/01/1567332481354.html)
+* [阿里大于发送短信验证码demo](https://www.huhdcc.top/articles/2019/09/01/1567332547114.html)
 * [微信公众号开发-模板信息推送](https://www.huhdcc.top/articles/2019/09/01/1567332666563.html)
 * [微信公众号开发-模板推送封装参数](https://www.huhdcc.top/articles/2019/09/01/1567332691227.html)
 * [java发送腾讯企业邮件-可用于发送邮箱验证码](https://www.huhdcc.top/articles/2019/09/01/1567332778815.html)
