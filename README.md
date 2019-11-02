@@ -1,9 +1,9 @@
-<p align="center"><img alt="oceanstorms 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
-oceanstorms 的个人博客
+<p align="center"><img alt="huhdcc" src="https://img.hacpai.com/file/2019/09/QQ图片20190901165702-8bf40bd3.jpg"></p><h2 align="center">
+huhdcc
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
-<p align="center"><a title="oceanstorms 的个人博客" target="_blank" href="https://github.com/oceanstorms/solo-blog"><img src="https://img.shields.io/github/last-commit/oceanstorms/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<h4 align="center">做个好人</h4>
+<p align="center"><a title="huhdcc" target="_blank" href="https://github.com/oceanstorms/solo-blog"><img src="https://img.shields.io/github/last-commit/oceanstorms/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/oceanstorms/solo-blog"><img src="https://img.shields.io/github/repo-size/oceanstorms/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/oceanstorms/solo-blog.svg"></a></p>
