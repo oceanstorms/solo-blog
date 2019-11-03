@@ -46,16 +46,17 @@ huhdcc
 * [Mybatis分析（1）-SqlSessionFactory](https://www.huhdcc.top/articles/2019/09/01/1567331946937.html)
 * [Mybatis分析（9）-加载工厂对象objectFactoryElement](https://www.huhdcc.top/articles/2019/09/01/1567332498061.html)
 * [JAVA8新特性lambda表达式（优雅的去重）](https://www.huhdcc.top/articles/2019/09/01/1567332839844.html)
+* [jdk环境变量一键配置](https://www.huhdcc.top/articles/2019/09/01/1567332905549.html)
 * [Maven清理批处理脚本](https://www.huhdcc.top/articles/2019/09/01/1567332969162.html)
 * [centos7阿里云服务器安装ssr](https://www.huhdcc.top/articles/2019/09/01/1567333137507.html)
 * [Mybatis分析（11）-加载反射工厂reflectorFactoryElement](https://www.huhdcc.top/articles/2019/09/04/1567579249302.html)
 * [Mybatis分析（12）-加载环境配置environmentsElement](https://www.huhdcc.top/articles/2019/09/04/1567580027171.html)
 * [Mybatis分析（13）-加载数据厂商标识databaseIdProviderElement](https://www.huhdcc.top/articles/2019/09/04/1567582517817.html)
 * [Mybatis分析（2）-SqlSessionFactoryBuilder](https://www.huhdcc.top/articles/2019/09/01/1567332033694.html)
-* [Mybatis分析（3）-config文件解析XMLConfigBuilder.parseConfiguration](https://www.huhdcc.top/articles/2019/09/01/1567332162637.html)
 
 ### 热议
 
+* [Mybatis分析（3）-config文件解析XMLConfigBuilder.parseConfiguration](https://www.huhdcc.top/articles/2019/09/01/1567332162637.html)
 * [Mybatis分析（4）-属性解析propertiesElement](https://www.huhdcc.top/articles/2019/09/01/1567332355505.html)
 * [Mybatis分析（5）-属性解析settings](https://www.huhdcc.top/articles/2019/09/01/1567332399709.html)
 * [Mybatis分析（6）-VFS加载](https://www.huhdcc.top/articles/2019/09/01/1567332432225.html)
@@ -67,7 +68,6 @@ huhdcc
 * [java发送腾讯企业邮件-可用于发送邮箱验证码](https://www.huhdcc.top/articles/2019/09/01/1567332778815.html)
 * [JAVA8新特性lambda表达式（时间为空排序）](https://www.huhdcc.top/articles/2019/09/01/1567332821333.html)
 * [JAVA8新特性lambda表达式（操作两个List）](https://www.huhdcc.top/articles/2019/09/01/1567332862530.html)
-* [jdk环境变量一键配置](https://www.huhdcc.top/articles/2019/09/01/1567332905549.html)
 * [强迫症福音-去掉桌面图标小箭头](https://www.huhdcc.top/articles/2019/09/01/1567332948250.html)
 * [powerdesigner导出sql语句生成注释的VB脚本](https://www.huhdcc.top/articles/2019/09/01/1567332989335.html)
 * [centos7 阿里云服务器安装docker及rabbitmq](https://www.huhdcc.top/articles/2019/09/01/1567333104951.html)
