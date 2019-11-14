@@ -49,13 +49,14 @@ huhdcc
 * [jdk环境变量一键配置](https://www.huhdcc.top/articles/2019/09/01/1567332905549.html)
 * [Maven清理批处理脚本](https://www.huhdcc.top/articles/2019/09/01/1567332969162.html)
 * [centos7阿里云服务器安装ssr](https://www.huhdcc.top/articles/2019/09/01/1567333137507.html)
+* [IDEA授权服务器搭建](https://www.huhdcc.top/articles/2019/09/03/1567503340844.html)
 * [Mybatis分析（11）-加载反射工厂reflectorFactoryElement](https://www.huhdcc.top/articles/2019/09/04/1567579249302.html)
 * [Mybatis分析（12）-加载环境配置environmentsElement](https://www.huhdcc.top/articles/2019/09/04/1567580027171.html)
 * [Mybatis分析（13）-加载数据厂商标识databaseIdProviderElement](https://www.huhdcc.top/articles/2019/09/04/1567582517817.html)
-* [Mybatis分析（2）-SqlSessionFactoryBuilder](https://www.huhdcc.top/articles/2019/09/01/1567332033694.html)
 
 ### 热议
 
+* [Mybatis分析（2）-SqlSessionFactoryBuilder](https://www.huhdcc.top/articles/2019/09/01/1567332033694.html)
 * [Mybatis分析（3）-config文件解析XMLConfigBuilder.parseConfiguration](https://www.huhdcc.top/articles/2019/09/01/1567332162637.html)
 * [Mybatis分析（4）-属性解析propertiesElement](https://www.huhdcc.top/articles/2019/09/01/1567332355505.html)
 * [Mybatis分析（5）-属性解析settings](https://www.huhdcc.top/articles/2019/09/01/1567332399709.html)
@@ -73,7 +74,6 @@ huhdcc
 * [centos7 阿里云服务器安装docker及rabbitmq](https://www.huhdcc.top/articles/2019/09/01/1567333104951.html)
 * [centos7 阿里云服务器docker安装mysql5.7](https://www.huhdcc.top/articles/2019/09/01/1567333172459.html)
 * [centos7 阿里云服务器docker安装redis](https://www.huhdcc.top/articles/2019/09/01/1567333194883.html)
-* [IDEA授权服务器搭建](https://www.huhdcc.top/articles/2019/09/03/1567503340844.html)
 * [Mybatis分析（10）-加载对象包装器工厂objectWrapperFactoryElement](https://www.huhdcc.top/articles/2019/09/04/1567578967567.html)
 * [支付demo篇（01）-搭建支付服务](https://www.huhdcc.top/articles/2019/09/05/1567676411211.html)
 
