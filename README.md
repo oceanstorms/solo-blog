@@ -38,6 +38,7 @@ huhdcc
 * [使用OkHttp替换Apache的Httpclient](https://www.huhdcc.top/articles/2019/09/03/1567488950089.html)
 * [微信支付-退款操作（JAVA版）](https://www.huhdcc.top/articles/2019/09/01/1567332589167.html)
 * [centos7 阿里云服务器docker安装nexus3](https://www.huhdcc.top/articles/2019/09/01/1567333217431.html)
+* [支付demo篇（01）-搭建支付服务](https://www.huhdcc.top/articles/2019/09/05/1567676411211.html)
 * [支付demo篇（02）-搭建支付服务基础](https://www.huhdcc.top/articles/2019/09/05/1567677421286.html)
 * [centos7 阿里云服务器安装mysql 配置远程访问](https://www.huhdcc.top/articles/2019/09/01/1567333062045.html)
 * [定时任务CRON常用表达式收集](https://www.huhdcc.top/articles/2019/09/01/1567333245085.html)
@@ -52,7 +53,6 @@ huhdcc
 * [IDEA授权服务器搭建](https://www.huhdcc.top/articles/2019/09/03/1567503340844.html)
 * [Mybatis分析（11）-加载反射工厂reflectorFactoryElement](https://www.huhdcc.top/articles/2019/09/04/1567579249302.html)
 * [Mybatis分析（12）-加载环境配置environmentsElement](https://www.huhdcc.top/articles/2019/09/04/1567580027171.html)
-* [Mybatis分析（13）-加载数据厂商标识databaseIdProviderElement](https://www.huhdcc.top/articles/2019/09/04/1567582517817.html)
 
 ### 热议
 
@@ -75,7 +75,7 @@ huhdcc
 * [centos7 阿里云服务器docker安装mysql5.7](https://www.huhdcc.top/articles/2019/09/01/1567333172459.html)
 * [centos7 阿里云服务器docker安装redis](https://www.huhdcc.top/articles/2019/09/01/1567333194883.html)
 * [Mybatis分析（10）-加载对象包装器工厂objectWrapperFactoryElement](https://www.huhdcc.top/articles/2019/09/04/1567578967567.html)
-* [支付demo篇（01）-搭建支付服务](https://www.huhdcc.top/articles/2019/09/05/1567676411211.html)
+* [Mybatis分析（13）-加载数据厂商标识databaseIdProviderElement](https://www.huhdcc.top/articles/2019/09/04/1567582517817.html)
 
 ---
 
